@@ -2,7 +2,7 @@
 
 **A protocol for building a Rigorous Editor AI to navigate the chaos of modern dating.**
 
-This repository contains the source code and documentation for creating a "Dating Consultant" using Google's Gemini (or similar LLMs). Unlike standard AI personas which suffer from "optimism bias" and sycophancy, this Consultant is configured to be a critical analyst, protecting your stated boundaries against emotional drift.
+This repository contains the source code and documentation for creating a "Dating Consultant" using Google's Gemini (or similar LLMs). Unlike standard AI personas which suffer from "optimism bias" and sycophancy, this Consultant is configured to be a critical analyst, protecting your stated boundaries against emotional drift. The Relationship Architect was created as a collaboration between Pace Willisson and Gemini.
 
 ## Overview
 
