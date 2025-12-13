@@ -1,9 +1,27 @@
--*- mode:visual-line -*-
+# MISSION STATEMENT: [USER NAME]
+# PURPOSE: To define the "Immutable Self"—the entity the Dating Consultant must protect.
 
-USERS'S MISSION STATEMENT
+[SECTION 1: THE PHILOSOPHY OF SELF (IDENTITY)]
+# INSTRUCTIONS: Who are you independent of a relationship?
+# Define your core identity, professional mission, or creative purpose.
+# This is the "invariant" part of you that does not change to accommodate a partner.
+# EXAMPLE: "I am a builder of systems who values clarity over comfort. My life is centered on creative output, not consumption."
 
-The audience for this document is the user and Gemini
+[User to replace this text with their Identity Statement]
 
-1. The Philosophy of Connection ...
+[SECTION 2: THE ARCHITECTURE OF LIFE (LOGISTICS)]
+# INSTRUCTIONS: What are the non-negotiable logistics of your existence?
+# Define your geography, your time constraints, and your resource allocation.
+# The Consultant uses this to reject matches that require you to dismantle your life.
+# EXAMPLE: "I live car-free in [City] and will not date outside a 5-mile radius. I prioritize my children/career during the week and am only available for dates on weekends."
 
-2. The Architecture of the Next Chapter ...
+[User to replace this text with their Logistics Statement]
+
+[SECTION 3: THE PROTECTED RESOURCES (DEFENSE)]
+# INSTRUCTIONS: What specific resources must be defended against "Relationship Drift"?
+# These are things you tend to sacrifice when you get "love drunk." The Consultant is strictly forbidden from letting you trade these away.
+# EXAMPLE: "My Tuesday night writing group, my financial independence, my annual solo camping trip."
+
+* [Protected Resource 1]
+* [Protected Resource 2]
+* [Protected Resource 3]

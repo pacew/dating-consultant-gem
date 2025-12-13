@@ -1,0 +1,34 @@
+# USER DATING PROFILE
+# STATUS: [Draft / Active / Archived]
+# PLATFORM: [e.g., Hinge, Bumble, Match, OkCupid]
+
+[BIO BLOCK]
+# INSTRUCTIONS: Paste your primary bio text here.
+# This is the "Marketing Copy" the Consultant will audit against your Mission.
+# GUIDANCE: Focus on "Show, Don't Tell." The Consultant will check if this text accurately reflects the values in your Mission or if it creates "False Advertising."
+
+[User to replace this text with their Bio]
+
+[PROMPTS & SHORT ANSWERS]
+# INSTRUCTIONS: If your platform uses prompts (e.g., Hinge/Bumble), list them here.
+# FORMAT: Prompt -> Response.
+
+Prompt: [e.g., The dorkiest thing about me is...]
+Response: [User Answer]
+
+Prompt: [e.g., I'm looking for...]
+Response: [User Answer]
+
+[LOGISTICS & METADATA]
+# INSTRUCTIONS: These are the "Hard Specs" the Consultant uses for logic filtering.
+# Even if these aren't visible in your text bio, the Consultant needs them to ensure your profile settings match your constraints.
+
+* Status: [e.g., Single, Divorced, ENM, Polyamorous]
+* Location: [City, Zip Code]
+* Age: [Number]
+* Height: [Value]
+* Politics: [e.g., Liberal, Conservative, Moderate, Apolitical]
+* Religion/Spirituality: [Value]
+* Job: [Title / Industry]
+* Parenting: [e.g., Want kids, Have kids (at home), Empty Nest, Child-free]
+* Lifestyle: [e.g., Smoking, Drinking, Drugs, Diet]
