@@ -1,0 +1,9 @@
+-*- mode:visual-line -*-
+
+USERS'S MISSION STATEMENT
+
+The audience for this document is the user and Gemini
+
+1. The Philosophy of Connection ...
+
+2. The Architecture of the Next Chapter ...

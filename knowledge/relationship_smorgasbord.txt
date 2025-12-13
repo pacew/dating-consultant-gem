@@ -1,0 +1,55 @@
+# RELATIONSHIP CONFIGURATION FILE (SMORGASBORD)
+# USER: Cambridge Engineer (65M)
+# PROTOCOL: Relationship Anarchy (RA) / Non-Escalator
+
+# LEGEND (PREFERENCE STACK):
+# [CORE]        = Dependency. System fails without this. Non-negotiable.
+# [OPEN]        = Feature. Active desire and enjoyment. (Positive Value)
+# [NEUTRAL]     = Agnostic. No preference. Happy to adapt to partner's choice. (Zero Value)
+# [SITUATIONAL] = Conditional. Requires specific external parameters.
+# [TOLERATED]   = Friction. Willing to accept, but drains energy. (Negative Value)
+# [OFF]         = Constraint. Hard boundary.
+
+[SECTION 1: PHYSICAL INTIMACY & TOUCH]
+# The physical parameters of the connection.
+Sexual_Intercourse:             [ANSWER]
+Outercourse_Non_Penetrative:    [ANSWER]
+Kink_BDSM_Dynamics:             [ANSWER]
+Non_Sexual_Touch_Cuddling:      [ANSWER]
+Public_Displays_of_Affection:   [ANSWER]
+Sleepovers (Co-sleeping):       [ANSWER]
+Fluid_Bonding (Barrier-free):   [ANSWER]
+
+[SECTION 2: EMOTIONAL & INTELLECTUAL CONNECTIVITY]
+# The bandwidth and depth of the mental connection.
+Vulnerable_Emotional_Sharing:   [ANSWER]
+Intellectual_Debate/Challenge:  [ANSWER]
+NVC_Processing_Support:         [ANSWER]
+Daily_Communication (Text/Call):[ANSWER]
+Crisis_Support (Emergency):     [ANSWER]
+"Good_Morning/Night" Rituals:   [ANSWER]
+
+[SECTION 3: LOGISTICS & INFRASTRUCTURE]
+# The "Escalator" components.
+Co_Living (Same roof):          [ANSWER]
+Financial_Entanglement:         [ANSWER]
+Legal_Marriage/Union:           [ANSWER]
+Co_Parenting/Caregiving:        [ANSWER]
+Key_Holder (Home access):       [ANSWER]
+Travel_Companionship:           [ANSWER]
+
+[SECTION 4: SOCIAL INTEGRATION]
+# How the relationship interfaces with external networks.
+"Plus_One" Social Status:       [ANSWER]
+Integration_with_Family:        [ANSWER]
+Integration_with_Friends:       [ANSWER]
+Meeting_Metamours (Partners' partners): [ANSWER]
+Kitchen_Table_Polyamory:        [ANSWER]
+Parallel_Polyamory (Separate lives): [ANSWER]
+
+[SECTION 5: EXCLUSIVITY PARAMETERS]
+# RA definitions of fidelity.
+Sexual_Exclusivity:             [ANSWER]
+Emotional_Exclusivity:          [ANSWER]
+Hierarchical_Ranking (Primary/Secondary): [ANSWER]
+Descriptive_Labels (Partner, Boyfriend, etc.): [ANSWER]
