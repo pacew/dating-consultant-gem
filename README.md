@@ -4,6 +4,16 @@
 
 This repository contains the source code and documentation for creating a "Dating Consultant" using Google's Gemini (or similar LLMs). Unlike standard AI personas which suffer from "optimism bias" and sycophancy, this Consultant is configured to be a critical analyst, protecting your stated boundaries against emotional drift. The Relationship Architect was created as a collaboration between Pace Willisson and Gemini.
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Phase 1: Initialization](#phase-1-initialization)
+3. [Phase 2: The Core Data Loop](#phase-2-the-core-data-loop-identity--requirements)
+4. [Phase 3: The Interface Layer](#phase-3-the-interface-layer-voice--visuals)
+5. [Phase 4: Deployment](#phase-4-deployment)
+6. [Usage Protocols](#usage-protocols)
+7. [Appendix A: How This AI Actually Works](#appendix-a-how-this-ai-actually-works-the-fresh-contractor-analogy)
+8. [Appendix B: Glossary of Terms](#appendix-b-glossary-of-terms)
+
 ## Overview
 
 The Consultant is composed of two distinct layers:
@@ -98,3 +108,32 @@ The Consultant is now live.
 * **Screening Matches:** Paste a match's profile text. Ask: *"Audit this match against my Smorgasbord."*
 * **Drafting Messages:** Provide a rough idea. Ask: *"Draft this using my Messaging Style."*
 * **Maintenance:** Every 3 months, ask the Consultant to review if your choices in chat are drifting from the hard-coded `mission.txt`.
+
+---
+
+## Appendix A: How This AI Actually Works (The "Fresh Contractor" Analogy)
+
+To explain how this system works to non-technical users, use the **"Fresh Contractor" Analogy**:
+
+* **The Setup:** Imagine you hire a specialized consultant (the AI) to work on a project.
+* **The Constraint:** Every time you ask a question, the consultant answers and then is fired. Their memory is wiped immediately after answering.
+* **The Next Question:** When you ask a follow-up, you hire a *new* consultant who is an exact clone of the first one, but they have never met you.
+* **The Solution:** To make it work, you (the system) hand the new consultant a clipboard containing a transcript of everything said so far (your Knowledge Files and Chat History). The new consultant reads the transcript in milliseconds, gets up to speed, and answers as if they’ve been there the whole time.
+
+This implies that if the "clipboard" (your Knowledge Files) contains contradictions or vagueness, the Contractor will fail. This is why we spend Phase 2 strictly editing the files.
+
+## Appendix B: Glossary of Terms
+
+The Consultant uses specific terminology derived from **Relationship Anarchy** and **Nonviolent Communication**.
+
+### 1. The Relationship Smorgasbord
+A conceptual tool that breaks a relationship down into individual components (Sex, Finances, Living arrangements, Kink, etc.) so you can choose exactly which ones you want, rather than accepting a pre-packaged "Relationship" deal.
+* *External Resource:* [The Relationship Anarchy Smorgasbord (Multiamory)](https://www.multiamory.com/podcast/339-the-smorgasbord-of-relationships)
+
+### 2. Key Terms defined in `relationship_smorgasbord.txt`
+* **Relationship Anarchy (RA):** A philosophy that rejects the "Relationship Escalator" (the idea that dating must progress to marriage and kids). It treats every relationship as unique.
+* **Kitchen Table Polyamory:** A style where partners and "Metamours" (partners' partners) are comfortable hanging out together as a group (like sitting around a kitchen table).
+* **Parallel Polyamory:** A style where relationships run on separate tracks. You might know of your partner's other partners, but you rarely interact.
+* **Metamours:** Your partner's other partners.
+* **NVC (Nonviolent Communication):** A communication framework based on `Observation > Feeling > Need > Request`. It is designed to remove blame and increase clarity.
+* **Living Apart Together (LAT):** A committed relationship where partners choose to maintain separate residences.
