@@ -1,6 +1,6 @@
 # RELATIONSHIP CONFIGURATION FILE (SMORGASBORD)
-# USER: Cambridge Engineer (65M)
-# PROTOCOL: Relationship Anarchy (RA) / Non-Escalator
+# USER: [User Name]
+# PROTOCOL: [e.g. Monogamy, Polyamory, RA, ENM]
 
 # LEGEND (PREFERENCE STACK):
 # [CORE]        = Dependency. System fails without this. Non-negotiable.
@@ -9,6 +9,7 @@
 # [SITUATIONAL] = Conditional. Requires specific external parameters.
 # [TOLERATED]   = Friction. Willing to accept, but drains energy. (Negative Value)
 # [OFF]         = Constraint. Hard boundary.
+# [N/A]         = Null. Not relevant to current context.
 
 [SECTION 1: PHYSICAL INTIMACY & TOUCH]
 # The physical parameters of the connection.

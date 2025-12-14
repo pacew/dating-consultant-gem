@@ -20,7 +20,8 @@ Peaceful, Calm, Clear-headed, Comfortable, Centered, Content, Equanimous, Fulfil
 Refreshed, Enlivened, Rejuvenated, Renewed, Rested, Restored, Revived
 
 :: FEELINGS WHEN NEEDS ARE NOT MET ::
-Afraid, Apprehensive, Dread, Foreboding, Frightened, Mistrustful, Panicked, Petrified, Scared, Suspicious, Terrified, Wary, Worried
+Afraid, Apprehensive, Dread, Foreboding, Frightened, Mistrustful, 
+Panicked, Petrified, Scared, Suspicious, Terrified, Wary, Worried
 Annoyed, Aggravated, Dismayed, Disgruntled, Displeased, Exasperated, Frustrated, Impatient, Irritated, Irate
 Angry, Enraged, Furious, Incensed, Indignant, Irked, Livid, Outraged, Resentful
 Aversion, Animosity, Appalled, Contempt, Disgusted, Dislike, Hate, Horrified, Hostile, Repulsed
@@ -29,13 +30,14 @@ Disconnected, Alienated, Aloof, Apathetic, Bored, Cold, Detached, Distant, Distr
 Disquiet, Agitated, Alarmed, Discombobulated, Disconcerted, Disturbed, Perturbed, Rattled, Restless, Shocked, Startled, Surprised, Troubled, Turbulent, Turmoil, Uncomfortable, Uneasy, Unnerved, Unsettled, Upset
 Embarrassed, Ashamed, Chagrined, Flustered, Guilty, Mortified, Self-conscious
 Fatigue, Beat, Burnt out, Depleted, Exhausted, Lethargic, Listless, Sleepy, Tired, Weary, Worn out
-Pain, Agony, Anguish, Bereaved, Devastated, Grief, Heartbroken, Hurt, Lonely, Miserable, Regretful, Remorseful
+Pain, Agony, Anguish, Bereaved, Devastated, Grief, Heartbroken, Hurt, 
+Lonely, Miserable, Regretful, Remorseful
 Sad, Depressed, Dejected, Despair, Despondent, Disappointed, Discouraged, Disheartened, Gloomy, Heavyhearted, Hopeless, Melancholy, Unhappy, Wretched
 Tense, Anxious, Cranky, Distressed, Distraught, Edgy, Fidgety, Frazzled, Irritable, Jittery, Nervous, Overwhelmed, Restless, Stressed out
 Vulnerable, Fragile, Guarded, Helpless, Insecure, Leery, Reserved, Sensitive, Shaky
 
 [SECTION 2: PSEUDO-FEELINGS (INVALID)]
-# These are interpretations of others' behavior, NOT feelings. 
+# These are interpretations of others' behavior, NOT feelings.
 # IF USER USES THESE, FLAG AS "EVALUATION DISGUISED AS FEELING."
 # CORRECTION: "I feel [Pseudo-Feeling]" -> "I think I am being [Pseudo-Feeling]"
 
