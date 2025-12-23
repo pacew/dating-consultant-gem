@@ -1,8 +1,47 @@
 # The Relationship Architect
 
-**A protocol for building a Rigorous Editor AI to navigate the chaos of modern dating.**
+# The Relationship Kernel: An External Executive Function Stack
 
-This repository contains the source code and documentation for creating a "Dating Consultant" using Google's Gemini (or similar LLMs). Unlike standard AI personas which suffer from "optimism bias" and sycophancy, this Consultant is configured to be a critical analyst, protecting your stated boundaries against emotional drift. The Relationship Architect was created as a collaboration between Pace Willisson and Gemini.
+### ⚠️ Status: Active Alpha
+**Current Deployment:** Successfully running in a live production environment (Cambridge, MA) to facilitate a new relationship for a neurodivergent user.
+**Seeking:** Collaborators, Architects, and Testers to help evolve the framework.
+
+---
+
+### What is this?
+This repository is not a collection of "pickup artist" scripts or generic dating advice. It is a **skeleton for a Stateful Dating Architecture.**
+
+Modern dating requires high-speed "Theory of Mind" processing, constant context switching, and real-time boundary enforcement. For "Systemitizers" (SQ-R > 70), engineers, or those recovering from high-control relationships, this processing load can cause system failure (burnout, masking, or missed red flags).
+
+**This project offloads that processing to an external kernel.** By feeding an LLM a persistent "Knowledge Graph" of your identity, values, and hard constraints, the AI stops acting as a generic chatbot and starts acting as a **Chief of Staff** who knows your history, your quirks, and your non-negotiables.
+
+### The Vision: Three Development Paths
+We are looking for collaborators to help push this "skeleton" architecture along three distinct but compatible vectors:
+
+#### 1. The Open Source Relationship Protocol (The CLI for RA)
+Relationship Anarchy (RA) is a philosophy of "building your own rules," yet most people lack the tools to define those rules clearly.
+* **The Goal:** Move from vague "vibes" to clear Configuration Files.
+* **The Mechanism:** Using the `relationship_smorgasbord.txt` as a config file, the system compiles potential matches against your dependencies. If you have **Marriage** set to `[OFF]` and **Parallel Play** set to `[CORE]`, the system flags incompatibilities before emotional attachment occurs.
+
+#### 2. The Neuro-Bridge (Translation Layer)
+For users with traits like Face Blindness or Social Processing Lag, the dating world is full of invisible data.
+* **The Goal:** A "Translation Layer" for the neurodivergent heart.
+* **The Mechanism:** The `knowledge.txt` file acts as a User Manual. It allows the system to help the user explain their "Hardware Transparency" (e.g., "I'm not ignoring you; I'm buffering") in a way that creates intimacy rather than confusion.
+
+#### 3. The Safety Sidecar (Objective Auditing)
+For survivors of narcissism or gaslighting, "trusting your gut" is often a compromised sensor.
+* **The Goal:** An objective third party that never gets tired and never forgets your boundaries.
+* **The Mechanism:** The **Auditor Protocol**. The system reviews incoming messages and interactions against your defined constraints. It alerts the user to "Scope Creep" or boundary violations that a human brain might rationalize away in the moment.
+
+### How to Contribute
+This project is currently a set of text-based configuration files and prompt architectures. We are looking for:
+* **Testers:** To fork the config files, adapt them to their own "Operating Systems," and report back on efficacy.
+* **Coders:** To wrap this logic into a more accessible UI or CLI tool.
+* **Philosophers:** To refine the `smorgasbord` definitions and safety protocols.
+
+*Fork the repo, update the `knowledge.txt` with your own system specs, and let's debug human connection together.*
+
+The Relationship Architect was created as a collaboration between Pace Willisson and Gemini.
 
 ## Table of Contents
 1. [Overview](#overview)
