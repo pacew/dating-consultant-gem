@@ -1,5 +1,3 @@
-# The Relationship Architect
-
 # The Relationship Kernel: An External Executive Function Stack
 
 ### ⚠️ Status: Active Alpha
